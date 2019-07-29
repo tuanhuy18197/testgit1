@@ -4,3 +4,4 @@ function logout
 release
 h
 conflix local
+conflict remote
