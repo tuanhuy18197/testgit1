@@ -3,3 +3,4 @@ function login
 function logout
 release
 h
+conflix local
